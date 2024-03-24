@@ -1,0 +1,19 @@
+{
+  "name": "huma-project02-cli-number-guessing-game",
+  "version": "1.0.0",
+  "description": "It's a cli number guessing game with the help of TypeScript, node.js and inquirer.",
+  "main": "Num-Guess-Game.js",
+  "type": "module",
+  "bin": "Num-Guess-Game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Huma",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
